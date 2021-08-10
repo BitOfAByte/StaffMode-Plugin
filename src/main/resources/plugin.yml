@@ -1,0 +1,4 @@
+name: StaffMode
+version: ${project.version}
+main: me.tobyhere123.staffmode.Main
+authors: [ Tobyhere123 ]
